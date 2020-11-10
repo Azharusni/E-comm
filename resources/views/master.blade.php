@@ -17,6 +17,13 @@
     height:500px;
     padding-top:100px;
   }
+
+  .my-big-btn{
+    width:347px;
+    padding:5px;
+  }
+
+
 </style>
 
   </head>
