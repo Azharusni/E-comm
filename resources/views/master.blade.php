@@ -18,6 +18,24 @@
     padding-top:100px;
   }
 
+  .slider-img{
+    height: 400px !important;
+    width: 400px !important;
+    
+    
+  }
+
+  .custom-product{
+    height: 600px !important;
+    
+  }
+/* .indicators-color{
+  background-color: gray !important;
+} */
+.slider-text{
+  background-color: #35443585 !important;
+}
+
   .my-big-btn{
     width:347px;
     padding:5px;
