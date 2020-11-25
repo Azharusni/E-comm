@@ -1,4 +1,4 @@
-<div class="card-body text-muted">
+<div style="clear:both" class="card-body text-muted">
     Panel content
   </div>
 <div class="card-footer text-muted">
