@@ -29,9 +29,7 @@
     height: 600px !important;
     
   }
-/* .indicators-color{
-  background-color: gray !important;
-} */
+
 .slider-text{
   background-color: #35443585 !important;
 }
@@ -40,7 +38,9 @@
     width:347px;
     padding:5px;
   }
-
+.search-box{
+  width: 500px !important
+}
 .trending-image{
   height: 100px;
 }
